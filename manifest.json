@@ -2,7 +2,7 @@
   "name": "Convertidor de Imágenes",
   "short_name": "ImgConv",
   "description": "Convierte imágenes entre JPG, PNG, WEBP, SVG y GIF. 100% local, sin servidor.",
-  "start_url": "./convertidor-imagenes.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#080808",
   "theme_color": "#080808",
